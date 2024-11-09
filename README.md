@@ -9,3 +9,5 @@ This repository contains the code to **Probot**, a real-time chatbot with except
 
 Registering as a new user is as simple as on any other platforms that you might have used till now. You just need to create your username and password. A two-way authentication passage checks the validity of your password and confirms your password twice before it becomes final. After that, the API redirects you directly to the Probot-CLI interface where you can start chatting. Your username and password gets stored automatically in the connected database while creation of user so that it can be used next time for validation during subsequent logins by the user.
 
+### Rules for creating Username & Password
+- Password must contain atleast 8 characters.
