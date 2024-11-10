@@ -19,3 +19,9 @@ Registering as a new user is as simple as on any other platforms that you might 
 - Username has no restrictions.
 
 
+## Login
+![Screenshot 2024-11-10 185528](https://github.com/user-attachments/assets/6e6345f3-d347-43d3-8574-b9f92eacb1d8)
+
+Login is very simple and user only needs his username and password for authentication purpose. Once login, you can start using Probot !
+
+
