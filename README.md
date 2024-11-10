@@ -8,6 +8,14 @@ The setup and installation of Probot is very easy and needs some simple download
 
 `pip install -r requirements.txt`
 
+For running the Probot, open a terminal/shell and go to the directory where your downloaded folders are placed. Run the following command then :
+
+`uvicorn app:app --reload`
+
+Now open a new terminal, go to the same directory and run the command :
+
+`python chatbot_cli.py`
+
  # Features Of Probot & Using Them
 ## Register
 ![Screenshot 2024-11-09 224938](https://github.com/user-attachments/assets/6b52b20b-0e02-4cc8-a150-a652e7ba9536)
