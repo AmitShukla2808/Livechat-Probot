@@ -16,6 +16,8 @@ Now open a new terminal, go to the same directory and run the command :
 
 `python chatbot_cli.py`
 
+Your Probot is now ready to use and you can start with the below actions.
+
  # Features Of Probot & Using Them
 ## Register
 ![Screenshot 2024-11-09 224938](https://github.com/user-attachments/assets/6b52b20b-0e02-4cc8-a150-a652e7ba9536)
