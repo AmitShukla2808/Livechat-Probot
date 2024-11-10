@@ -5,7 +5,8 @@ This repository contains the code to **Probot**, a real-time chatbot with except
 
 # Setup and Installation
 The setup and installation of Probot is very easy and needs some simple downloads. Probot uses FastAPI for app server side and Postgres database for storing your data. Thus you need to download and setup your Postgres database (PG Admin) [https://youtu.be/KuQUNHCeKCk?si=DYbbn-aX_QxbSPMD]. After downloading Postgres, you need your personal Postgres username, database name for connecting your probot to your database (You can have a simple look at the code for database to get full understanding). For FastAPI, you can just run a simple command on terminal : `pip install fastapi`. You can just directly run a command using the requirements.txt file for installing all other libraries and modules.
-'pip install -r requirements.txt'
+
+`pip install -r requirements.txt`
 
  # Features Of Probot & Using Them
 ## Register
