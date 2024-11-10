@@ -11,3 +11,11 @@ Registering as a new user is as simple as on any other platforms that you might 
 
 ### Rules for creating Username & Password
 - Password must contain atleast 8 characters.
+- Password must can contain only alphabets, numerals and special characters.
+- Password must contain atleast one uppercase alphabet.
+- Password must contain atleast one lowercase alphabet.
+- Password must contain atleast one special character.
+- Password must contain atleast one numeric character.
+- Username has no restrictions.
+
+
