@@ -26,7 +26,8 @@ Login is very simple and user only needs his username and password for authentic
 
 
 ## Delete 
-![Screenshot 2024-11-10 191506](https://github.com/user-attachments/assets/cefc28b9-bcf8-4ab8-a69d-99b7318970b5)
+![Screenshot 2024-11-10 192213](https://github.com/user-attachments/assets/0433283e-b748-4735-8985-ea7856d21e34)
+
 
 Deleting a user from database is also quite an easy process but strictly needs the correct username and password for it. Also after deleting a user, you are redirected to the menu section for further options.
 
