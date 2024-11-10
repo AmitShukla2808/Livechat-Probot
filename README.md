@@ -16,7 +16,7 @@ Now open a new terminal, go to the same directory and run the command :
 
 `python chatbot_cli.py`
 
-Your Probot is now ready to use and you can start with the below actions.
+Your Probot is now ready to use and you can start with the below actions. For exiting the chatlog with bot enter `exit` and press enter. For closing the Chatbot-CLI interface, again enter `exit` and press enter. Remember this command `exit` is case sensitive and needs to be entered in the exact way.
 
  # Features Of Probot & Using Them
 ## Register
@@ -45,6 +45,15 @@ Login is very simple and user only needs his username and password for authentic
 
 
 Deleting a user from database is also quite an easy process but strictly needs the correct username and password for it. Also after deleting a user, you are redirected to the menu section for further options.
+
+# Demo Video 
+The below video gives you a step by step usage of Probot covering all its features.
+
+
+
+https://github.com/user-attachments/assets/556b2a56-2c18-4af1-aa09-19610a970e0b
+
+
 
 
 
