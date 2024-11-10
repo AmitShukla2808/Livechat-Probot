@@ -25,3 +25,10 @@ Registering as a new user is as simple as on any other platforms that you might 
 Login is very simple and user only needs his username and password for authentication purpose. Once login, you can start using Probot !
 
 
+## Delete 
+![Screenshot 2024-11-10 191506](https://github.com/user-attachments/assets/cefc28b9-bcf8-4ab8-a69d-99b7318970b5)
+
+Deleting a user from database is also quite an easy process but strictly needs the correct username and password for it. Also after deleting a user, you are redirected to the menu section for further options.
+
+
+
