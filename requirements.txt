@@ -1,0 +1,12 @@
+Flask
+psycopg2
+requests
+bcrypt
+pandas
+groq
+os
+hashlib
+time
+json
+re
+typing
